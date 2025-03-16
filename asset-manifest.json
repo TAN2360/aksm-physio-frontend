@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aksm-physio-frontend/static/css/main.b781a944.css",
-    "main.js": "/aksm-physio-frontend/static/js/main.78847d63.js",
+    "main.css": "/aksm-physio-frontend/static/css/main.ea221b6a.css",
+    "main.js": "/aksm-physio-frontend/static/js/main.5bd9a7a9.js",
     "static/js/453.38f799b1.chunk.js": "/aksm-physio-frontend/static/js/453.38f799b1.chunk.js",
     "index.html": "/aksm-physio-frontend/index.html",
-    "main.b781a944.css.map": "/aksm-physio-frontend/static/css/main.b781a944.css.map",
-    "main.78847d63.js.map": "/aksm-physio-frontend/static/js/main.78847d63.js.map",
+    "main.ea221b6a.css.map": "/aksm-physio-frontend/static/css/main.ea221b6a.css.map",
+    "main.5bd9a7a9.js.map": "/aksm-physio-frontend/static/js/main.5bd9a7a9.js.map",
     "453.38f799b1.chunk.js.map": "/aksm-physio-frontend/static/js/453.38f799b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b781a944.css",
-    "static/js/main.78847d63.js"
+    "static/css/main.ea221b6a.css",
+    "static/js/main.5bd9a7a9.js"
   ]
 }
